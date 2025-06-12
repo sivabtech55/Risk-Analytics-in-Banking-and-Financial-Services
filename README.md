@@ -85,19 +85,4 @@ Below are the KPIs calculated in this project using customer, loan, and deposit 
 
 ---
 
-## Sample KPI SQL Queries
 
-```sql
--- Total Clients
-SELECT COUNT(DISTINCT client_id) AS total_clients FROM customer_data;
-
--- Total Deposit
-SELECT SUM(bank_deposit) AS total_deposit FROM account_data;
-
--- Bank Loan by Nationality
-SELECT nationality, SUM(bank_loan) AS total_loan
-FROM loan_data
-GROUP BY nationality;
-
--- Credit Card Balance
-SELECT SUM(credit_card_balance) AS total_credit_card_balance FROM credit_data;
