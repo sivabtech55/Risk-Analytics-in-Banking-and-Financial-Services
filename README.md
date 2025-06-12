@@ -31,7 +31,9 @@ Loyalty Classification Patterns
 
 Using both statistical and visual methods, the project identifies high-risk customer profiles, loan performance trends, and early indicators of financial instability, supporting smarter risk management strategies for banking institutions.
 
+## DataSet
 
+- <a href="https://github.com/sivabtech55/Risk-Analytics-in-Banking-and-Financial-Services/blob/main/Banking.xlsx">Banking Dataset</a>
 
 
 ## Key Performance Indicators (KPIs) – Banking and Financial Services Project
