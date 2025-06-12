@@ -1,10 +1,10 @@
-**Project Title:**
+### Project Title:
 Risk Analysis in Banking and Financial Services using Data Analytics and Visualization
 
-**Project Objective:**
+### Project Objective:
 To identify and evaluate key financial and customer behavior risk factors using data analytics techniques, with the goal of helping banks make data-driven decisions to minimize defaults, credit risk, and customer churn.
 
-**Project Description:**
+### Project Description:
 This project involves analyzing banking data to assess potential risks associated with loans, deposits, and customer segments. It leverages data analytics tools like Python (Pandas, Seaborn, Matplotlib), SQL, and Power BI to:
 
 Understand the distribution of loan defaults, deposit patterns, and credit card usage.
