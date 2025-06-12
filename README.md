@@ -86,8 +86,8 @@ Below are the KPIs calculated in this project using customer, loan, and deposit 
 ---
 
 ## DashBoard
-<a href="https://github.com/sivabtech55/Risk-Analytics-in-Banking-and-Financial-Services/blob/main/Banking%20Project-1.png">View DashBoard1</a>/n
-<a href="https://github.com/sivabtech55/Risk-Analytics-in-Banking-and-Financial-Services/blob/main/Banking%20Project-2.png">View DashBoard2</a>/n
-<a href="https://github.com/sivabtech55/Risk-Analytics-in-Banking-and-Financial-Services/blob/main/Banking%20Project-3.png">View DashBoard3</a>/n
+<a href="https://github.com/sivabtech55/Risk-Analytics-in-Banking-and-Financial-Services/blob/main/Banking%20Project-1.png">View DashBoard1</a>
+<a href="https://github.com/sivabtech55/Risk-Analytics-in-Banking-and-Financial-Services/blob/main/Banking%20Project-2.png">View DashBoard2</a>
+<a href="https://github.com/sivabtech55/Risk-Analytics-in-Banking-and-Financial-Services/blob/main/Banking%20Project-3.png">View DashBoard3</a>
 <a href="https://github.com/sivabtech55/Risk-Analytics-in-Banking-and-Financial-Services/blob/main/Banking%20Project-4.png">View DashBoard4</a>
 
